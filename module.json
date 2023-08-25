@@ -35,11 +35,6 @@
   "relationships": {
     "requires": [
       {
-        "id": "compendium-folders",
-        "type": "module",
-        "compatibility": {}
-      },
-      {
         "id": "lib-wrapper",
         "type": "module",
         "compatibility": {}

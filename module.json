@@ -2,7 +2,7 @@
   "id": "wod20-compendium",
   "title": "WoD 20 Compendium",
   "description": "A module containing compendiums for WoD 20th anniversary edition",
-  "version": "1.0.6",
+  "version": "1.0.0.0",
   "library": "false",
   "compatibility": {
     "minimum": 10,
@@ -11,9 +11,9 @@
   },
   "authors": [
     {
-      "name": "SeaSaltSong",
+      "name": "madereddy",
       "email": "",
-      "url": "https://github.com/SeaSaltSong"
+      "url": "https://github.com/madereddy"
     }
   ],
   "packs": [

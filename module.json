@@ -2,7 +2,7 @@
   "id": "wod20-compendium",
   "title": "WoD 20 Compendium",
   "description": "A module containing compendiums for WoD 20th anniversary edition",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "library": "false",
   "compatibility": {
     "minimum": 10,

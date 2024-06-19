@@ -7,7 +7,7 @@
   "compatibility": {
     "minimum": 10,
     "verified": 11,
-    "maximum": 11
+    "maximum": 12
   },
   "authors": [
     {
@@ -124,8 +124,8 @@
       "system": "worldofdarkness"
     }
    ],
-   "url":"https://github.com/SeaSaltSong/wod20-compendium",
-   "manifest":"https://raw.githubusercontent.com/SeaSaltSong/wod20-compendium/main/module.json",
-   "download":"https://github.com/SeaSaltSong/wod20-compendium/releases/download/v1.0.3-HOTFIX/module.zip",
+   "url":"https://github.com/madereddy/wod20-compendium",
+   "manifest":"https://raw.githubusercontent.com/madereddy/wod20-compendium/main/module.json",
+   "download":"https://github.com/madereddy/wod20-compendium/releases/download/v1.0.4/module.zip",
    "bugs":"https://github.com/pcdoyle/wod20-compendium/issues"
 }
